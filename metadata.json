@@ -1,0 +1,5 @@
+{
+  "name": "NetPulse - Teste de Rede",
+  "description": "Uma ferramenta profissional para testar latência, velocidade de download e obter informações detalhadas sobre sua conexão de rede.",
+  "requestFramePermissions": []
+}
